@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nigerian Recipe</string>
+
+    <string name="main_title">What Food\nare you looking for?</string>
+    <string name="main_search">Search Food, Egusi, Beans, etc</string>
+
+</resources>

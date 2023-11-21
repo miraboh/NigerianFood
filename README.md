@@ -1,5 +1,3 @@
-# 9ja food      Still in Progress..... 
-
 <a href='https://developer.android.com/jetpack/guide' target='_blank'></a>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/35488181/94689519-e0cb6a00-0326-11eb-961e-af47fa509115.png" width="256" height="455">>
